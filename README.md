@@ -1,8 +1,8 @@
-# Top_react_interview_questions
 # Top 50 React Interview Questions with Answers
 
 This repository contains the answers to the top 50 most frequently asked React interview questions. These questions cover various aspects of React, including components, state management, lifecycle methods, hooks, and more.
 
+Written by [Yogesh kumar](https://github.com/yogeshkumar2001).
 ## Table of Contents
 
 1. [What is React?](#what-is-react)
@@ -264,3 +264,5 @@ React Native is a framework for building mobile applications using React. It all
 ### 50. What is the purpose of the `Next.js` framework?
 
 Next.js is a framework for building server-rendered React applications. It provides features such as static site generation, server-side rendering, and API routes. Next.js simplifies the process of building fast and SEO-friendly React applications.
+
+- **[Written by Yogesh kumar](https://eff.org)**
